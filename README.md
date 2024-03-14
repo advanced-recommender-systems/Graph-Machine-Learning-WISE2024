@@ -1,4 +1,4 @@
-# GraphML4Web, 
+# GraphML4Web
 
 <!-- [TODO] https://advanced-recommender-systems.github.io/llm4graph/  -->
 
