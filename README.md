@@ -1,6 +1,6 @@
 # GraphML4Web
 
-<!-- [TODO] https://advanced-recommender-systems.github.io/llm4graph/  -->
+Github Page: https://advanced-recommender-systems.github.io/Graph-Machine-Learning-WISE2024/
 
 Graph Machine Learning on Web and Social Media: Trends, Challenges, and Applications (GraphML4Web) Workshop WISE'24
 
